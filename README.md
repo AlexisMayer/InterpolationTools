@@ -17,7 +17,7 @@ devtools::install_github("AlexisMayer/InterpolationTools")
 
 ## ShinyApp
 
-Le package inclut une application R-Shiny qui vous permet d'utiliser l'outil depuis votre navigateur web favori. 
+Le package inclut une application R-Shiny qui vous permet d'utiliser l'outil depuis votre navigateur web favori. Disponible directement ici : https://alexismayer.shinyapps.io/InterpolationTools/ ou alors depuis R :
 
 ``` r
 library(InterpolationTools)
